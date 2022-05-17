@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LoveIt</title>
+        <link>https://licl-hub.github.io/</link>
+        <description>Hugo theme - LoveIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>licl.hub@gmail.com (Chris)</managingEditor>
+            <webMaster>licl.hub@gmail.com (Chris)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 17 May 2022 02:35:32 -0700</lastBuildDate>
+            <atom:link href="https://licl-hub.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>https://licl-hub.github.io/first_post/</link>
+    <pubDate>Tue, 17 May 2022 02:35:32 -0700</pubDate>
+    <author>Chris</author>
+    <guid>https://licl-hub.github.io/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
